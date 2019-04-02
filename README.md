@@ -1,4 +1,4 @@
-# bitcoinReading
+# BitcoinReading
 Reading scientifically course
 
 base on "Mastering Bitcoin" - by Andreas M. Antonopoulos, O'REILLY.
