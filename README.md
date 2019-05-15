@@ -3,7 +3,7 @@
 
 base on "Mastering Bitcoin" - by Andreas M. Antonopoulos, O'REILLY.
 
-<img src="https://github.com/yoavhenig/BitcoinReading/blob/master/1.%20Introduction/Mastering%20Bitcoin%20book.JPG" width="250">
+<img src="https://github.com/yoavhenig/BitcoinReading/blob/master/1.%20Introduction/Mastering%20Bitcoin%20book.JPG" width="200">
 
 https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf
 
