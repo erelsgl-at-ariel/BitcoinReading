@@ -4,8 +4,8 @@
 Base on "Mastering Bitcoin" - by Andreas M. Antonopoulos, O'REILLY.
 
 <img src="https://github.com/yoavhenig/BitcoinReading/blob/master/1.%20Introduction/Mastering%20Bitcoin%20book.JPG" width="200">
-<br />https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/cover.html
-<br />https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf
+<br />https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/cover.html or
+<br />https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf (old version in pdf)
 
 Supervisor: Dr. Erel Segal Halevi
 
